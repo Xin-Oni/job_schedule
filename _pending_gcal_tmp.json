@@ -1,0 +1,180 @@
+{
+  "year": 2026,
+  "month": 1,
+  "shifts": [
+    {
+      "date": "2026-01-04",
+      "shift_key": "休",
+      "shift_raw": "休",
+      "summary": "休"
+    },
+    {
+      "date": "2026-01-05",
+      "shift_key": "ヘ",
+      "shift_raw": "ヘリ",
+      "summary": "ヘリ"
+    },
+    {
+      "date": "2026-01-06",
+      "shift_key": "院",
+      "shift_raw": "院内L",
+      "summary": "院内L"
+    },
+    {
+      "date": "2026-01-07",
+      "shift_key": "休",
+      "shift_raw": "休",
+      "summary": "休"
+    },
+    {
+      "date": "2026-01-08",
+      "shift_key": "S",
+      "shift_raw": "sA",
+      "summary": "sA"
+    },
+    {
+      "date": "2026-01-09",
+      "shift_key": "院",
+      "shift_raw": "院内L",
+      "summary": "院内L"
+    },
+    {
+      "date": "2026-01-10",
+      "shift_key": "休",
+      "shift_raw": "休",
+      "summary": "休"
+    },
+    {
+      "date": "2026-01-11",
+      "shift_key": "ヘ",
+      "shift_raw": "ヘリ",
+      "summary": "ヘリ"
+    },
+    {
+      "date": "2026-01-12",
+      "shift_key": "A",
+      "shift_raw": "A+",
+      "summary": "A（日勤 8:00-20:00）"
+    },
+    {
+      "date": "2026-01-13",
+      "shift_key": "院",
+      "shift_raw": "院内L",
+      "summary": "院内L"
+    },
+    {
+      "date": "2026-01-14",
+      "shift_key": "C",
+      "shift_raw": "C+",
+      "summary": "C（夜勤 20:00-翌8:00）"
+    },
+    {
+      "date": "2026-01-15",
+      "shift_key": "明",
+      "shift_raw": "明",
+      "summary": "明"
+    },
+    {
+      "date": "2026-01-16",
+      "shift_key": "休",
+      "shift_raw": "休",
+      "summary": "休"
+    },
+    {
+      "date": "2026-01-17",
+      "shift_key": "C",
+      "shift_raw": "C+",
+      "summary": "C（夜勤 20:00-翌8:00）"
+    },
+    {
+      "date": "2026-01-18",
+      "shift_key": "明",
+      "shift_raw": "明",
+      "summary": "明"
+    },
+    {
+      "date": "2026-01-19",
+      "shift_key": "休",
+      "shift_raw": "休",
+      "summary": "休"
+    },
+    {
+      "date": "2026-01-20",
+      "shift_key": "院",
+      "shift_raw": "院内L",
+      "summary": "院内L"
+    },
+    {
+      "date": "2026-01-21",
+      "shift_key": "健",
+      "shift_raw": "健診",
+      "summary": "健診"
+    },
+    {
+      "date": "2026-01-22",
+      "shift_key": "休",
+      "shift_raw": "休",
+      "summary": "休"
+    },
+    {
+      "date": "2026-01-23",
+      "shift_key": "A",
+      "shift_raw": "A+",
+      "summary": "A（日勤 8:00-20:00）"
+    },
+    {
+      "date": "2026-01-24",
+      "shift_key": "C",
+      "shift_raw": "C+",
+      "summary": "C（夜勤 20:00-翌8:00）"
+    },
+    {
+      "date": "2026-01-25",
+      "shift_key": "明",
+      "shift_raw": "明",
+      "summary": "明"
+    },
+    {
+      "date": "2026-01-26",
+      "shift_key": "休",
+      "shift_raw": "休",
+      "summary": "休"
+    },
+    {
+      "date": "2026-01-27",
+      "shift_key": "A",
+      "shift_raw": "A",
+      "summary": "A（日勤 8:00-20:00）"
+    },
+    {
+      "date": "2026-01-28",
+      "shift_key": "C",
+      "shift_raw": "C+",
+      "summary": "C（夜勤 20:00-翌8:00）"
+    },
+    {
+      "date": "2026-01-29",
+      "shift_key": "明",
+      "shift_raw": "明",
+      "summary": "明"
+    },
+    {
+      "date": "2026-01-30",
+      "shift_key": "ヘ",
+      "shift_raw": "ヘリ",
+      "summary": "ヘリ"
+    },
+    {
+      "date": "2026-01-31",
+      "shift_key": "C",
+      "shift_raw": "C+",
+      "summary": "C（夜勤 20:00-翌8:00）"
+    },
+    {
+      "date": "2026-02-01",
+      "shift_key": "明",
+      "shift_raw": "明",
+      "summary": "明"
+    }
+  ]
+}
